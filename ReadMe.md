@@ -31,9 +31,8 @@ npx loadtest -n 1000 -c 100 http://localhost:3000/heavy
 
 Dependencies
 Express: Web framework for the worker logic.
-
-EJS: Templating engine for the frontend.
-
 PM2: (Optional) For production-grade process management.
+Loadte<img width="583" height="717" alt="Screenshot 2026-02-15 143614" src="https://github.com/user-attachments/assets/c04acec4-fd33-4f66-ae68-c3aa54828f4c" />
+st: For benchmarking concurrency.
 
-Loadtest: For benchmarking concurrency.
+![Uploading Screenshot 2026-02-15 143614.png…]()
